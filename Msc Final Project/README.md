@@ -34,14 +34,10 @@ This project applies machine learning techniques to predict patient rehabilitati
 
 # Visualizations and Figures
 
-## Patient Data Sample
-![Figure 2](images/figure2_patient_data_sample.png)
+![Patient Data Sample](images/figure2_patient_data_sample.png)
+![Methodology Flowchart](images/figure3_methodology_flowchart.png)
+![Model Performance Comparison](images/figure9_model_performance_comparison.png)
 
-## Project Methodology Flowchart
-![Figure 3](images/figure3_methodology_flowchart.png)
-
-## Model Performance Comparison
-![Figure 9](images/figure9_model_performance_comparison.png)
 
 ## Acknowledgements
 - University of Hertfordshire MSc Data Science Programme
