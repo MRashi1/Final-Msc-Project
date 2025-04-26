@@ -33,7 +33,7 @@ This project applies machine learning techniques to predict patient rehabilitati
 ## Visualizations and Figures
 
 ### Patient Data Sample
-![Figure 2: Patient Data Sample](Msc Final Project/images/figure2_patient_data_sample.png)
+![Figure 2: Patient Data Sample](Msc Final Project\images\figure2_patient_data_sample.png)
 
 ### Project Methodology Flowchart
 ![Figure 3: Methodology Flowchart](images/figure3_methodology_flowchart.png)
